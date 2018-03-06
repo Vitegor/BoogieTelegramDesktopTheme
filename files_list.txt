@@ -1,0 +1,2 @@
+colors.tdesktop-theme
+background.png

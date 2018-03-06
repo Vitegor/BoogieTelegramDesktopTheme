@@ -1,0 +1,103 @@
+// ====== Constants ======
+RED:#883333;
+RED_L:#a23d3d;
+RED_D:#752c2c;
+
+GREEN:#338848;
+GREEN_L:#3a9b52;
+GREEN_D:#2c753e;
+
+BLUE:#345e89;
+BLUE_L:#3f72a7;
+BLUE_LL:#4b8acc;
+BLUE_D:#2c4f73;
+
+ORANGE:#885d33;
+ORANGE_L:#a6713e;
+ORANGE_D:#75502c;
+
+WHITE:#ffffff;
+
+GRAY:#cccccc;
+GRAY_D:#666666;
+GRAY_L:#e2e2e2;
+GRAY_50:#cccccc80;
+
+BLACK:#222222;
+BLACK_L:#2a2a2a;
+BLACK_LL:#323232;
+BLACK_LLL:#444444;
+
+BLACK_50:#22222280;
+BLACK_LL_50:#32323280;
+
+// ====== Common ======
+windowBg:BLACK;
+windowBgOver:BLACK_L;
+windowBgActive:RED;
+windowBgRipple:BLACK_LL;
+windowFg:WHITE;
+windowBoldFg:WHITE;
+windowBoldFgOver:WHITE;
+windowActiveTextFg:BLUE_L;
+
+activeLineFg:RED_L;
+
+// ====== Out messages ======
+msgOutBg:BLACK_LLL;
+msgOutShadow:BLACK_LL;
+msgOutDateFg:GRAY;
+msgOutDateFgSelected:GRAY;
+msgOutBgSelected:BLACK_LL;
+msgOutShadowSelected:BLACK_L;
+msgOutServiceFg:GREEN_L;
+msgOutServiceFgSelected:GREEN_L;
+msgOutMonoFg:GRAY;
+msgOutMonoFgSelected:GRAY;
+historyOutIconFg:GREEN;
+historyOutIconFgSelected:GREEN_L;
+historyLinkOutFg:BLUE_LL;
+historyLinkOutFgSelected:BLUE_LL;
+
+// ====== In messages ======
+msgInBg:BLACK_L;
+msgInShadow:BLACK;
+msgInBgSelected:BLACK_LL;
+msgInShadowSelected:BLACK_L;
+msgInDateFgSelected:GRAY;
+
+// ====== Dialogs ======
+dialogsBgActive:RED;
+dialogsBgOver:BLACK_LL;
+dialogsSentIconFg:GREEN;
+
+// ====== Buttons ======
+activeButtonBg:RED;
+activeButtonBgOver:RED_L;
+activeButtonBgRipple:RED;
+activeButtonBgRippleActive:RED_L;
+
+lightButtonBgOver:BLACK_L;
+lightButtonFg:WHITE;
+lightButtonFgOver:WHITE;
+lightButtonBgRipple:BLACK_LL;
+
+// ====== Scroll ======
+historyScrollBg:BLACK_50;
+historyScrollBgOver:BLACK;
+
+historyScrollBarBg:BLACK_LL_50;
+historyScrollBarBgOver:BLACK_LL_50;
+
+// ====== Icons ======
+historySendingOutIconFg:WHITE;
+msgFileThumbLinkOutFg:GRAY;
+msgFileThumbLinkOutFg:GRAY;
+msgFileOutBg:GRAY;
+msgFileOutBgOver:WHITE;
+msgFileOutBgSelected:WHITE;
+
+// ====== Other ======
+filterInputBorderFg:BLACK_LL;
+msgServiceBg:BLACK_50;
+dialogsTextFgServiceActive:GRAY;

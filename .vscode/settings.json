@@ -1,0 +1,10 @@
+{
+    "saveAndRun": {
+        "commands": [
+            {
+                "match": ".tdesktop-theme",
+                "cmd": "build.bat"
+            },
+        ]
+    }
+}
