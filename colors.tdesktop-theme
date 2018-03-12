@@ -86,6 +86,7 @@ msgInServiceFgSelected:RED_LL;
 dialogsBgActive:RED;
 dialogsBgOver:BLACK_LL;
 dialogsSentIconFg:GREEN;
+dialogsUnreadBgMuted:GRAY_DD;
 
 // ====== Buttons ======
 activeButtonBg:RED;
