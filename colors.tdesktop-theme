@@ -1,6 +1,7 @@
 // ====== Constants ======
 RED:#883333;
 RED_L:#a23d3d;
+RED_LL:#bf4646;
 RED_D:#752c2c;
 
 GREEN:#338848;
@@ -17,9 +18,11 @@ ORANGE_L:#a6713e;
 ORANGE_D:#75502c;
 
 WHITE:#ffffff;
+WHITE_D:#d6d6d6;
 
 GRAY:#cccccc;
 GRAY_D:#666666;
+GRAY_DD:#515151;
 GRAY_L:#e2e2e2;
 GRAY_50:#cccccc80;
 
@@ -36,7 +39,7 @@ windowBg:BLACK;
 windowBgOver:BLACK_L;
 windowBgActive:RED;
 windowBgRipple:BLACK_LL;
-windowFg:WHITE;
+windowFg:WHITE_D;
 windowBoldFg:WHITE;
 windowBoldFgOver:WHITE;
 windowActiveTextFg:BLUE_L;
@@ -50,21 +53,34 @@ msgOutDateFg:GRAY;
 msgOutDateFgSelected:GRAY;
 msgOutBgSelected:BLACK_LL;
 msgOutShadowSelected:BLACK_L;
-msgOutServiceFg:GREEN_L;
-msgOutServiceFgSelected:GREEN_L;
+msgOutServiceFg:RED_LL;
+msgOutServiceFgSelected:RED_LL;
 msgOutMonoFg:GRAY;
 msgOutMonoFgSelected:GRAY;
 historyOutIconFg:GREEN;
 historyOutIconFgSelected:GREEN_L;
 historyLinkOutFg:BLUE_LL;
-historyLinkOutFgSelected:BLUE_LL;
+historyLinkOutFgSelected:BLUE_L;
+msgOutReplyBarColor:BLACK_LL;
+msgOutReplyBarSelColor:BLACK_L;
+msgFileOutBg:GRAY;
+msgFileOutBgOver:WHITE;
+msgFileOutBgSelected:WHITE;
 
 // ====== In messages ======
 msgInBg:BLACK_L;
+msgInFg:BLACK_L;
 msgInShadow:BLACK;
 msgInBgSelected:BLACK_LL;
 msgInShadowSelected:BLACK_L;
 msgInDateFgSelected:GRAY;
+msgInReplyBarColor:GRAY_D;
+msgInReplyBarSelColor:GRAY_D;
+msgFileInBg:GRAY;
+msgFileInBgOver:WHITE;
+msgFileInBgSelected:WHITE;
+msgInServiceFg:RED_LL;
+msgInServiceFgSelected:RED_LL;
 
 // ====== Dialogs ======
 dialogsBgActive:RED;
@@ -93,9 +109,6 @@ historyScrollBarBgOver:BLACK_LL_50;
 historySendingOutIconFg:WHITE;
 msgFileThumbLinkOutFg:GRAY;
 msgFileThumbLinkOutFg:GRAY;
-msgFileOutBg:GRAY;
-msgFileOutBgOver:WHITE;
-msgFileOutBgSelected:WHITE;
 
 // ====== Other ======
 filterInputBorderFg:BLACK_LL;
