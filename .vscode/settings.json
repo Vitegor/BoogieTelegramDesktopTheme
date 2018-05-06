@@ -3,7 +3,7 @@
         "commands": [
             {
                 "match": ".tdesktop-theme",
-                "cmd": "build.bat"
+                "cmd": ".\\build.bat"
             },
         ]
     }

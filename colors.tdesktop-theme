@@ -49,20 +49,20 @@ activeLineFg:RED_L;
 // ====== Out messages ======
 msgOutBg:BLACK_LL;
 msgOutShadow:BLACK_L;
-msgOutDateFg:GRAY;
+msgOutDateFg:GRAY_D;
 msgOutDateFgSelected:GRAY;
 msgOutBgSelected:RED;
 msgOutShadowSelected:RED_D;
-msgOutServiceFg:RED_LL;
-msgOutServiceFgSelected:RED_LL;
-msgOutMonoFg:GRAY_D;
-msgOutMonoFgSelected:GRAY_D;
+msgOutServiceFg:GRAY_D;
+msgOutServiceFgSelected:GRAY;
+msgOutMonoFg:BLUE_L;
+msgOutMonoFgSelected:BLUE_L;
 historyOutIconFg:GREEN;
 historyOutIconFgSelected:GREEN_L;
 historyLinkOutFg:BLUE_LL;
 historyLinkOutFgSelected:BLUE_L;
-msgOutReplyBarColor:GRAY_D;
-msgOutReplyBarSelColor:GRAY_D;
+msgOutReplyBarColor:BLACK_L;
+msgOutReplyBarSelColor:GRAY;
 msgFileOutBg:GRAY;
 msgFileOutBgOver:WHITE;
 msgFileOutBgSelected:WHITE;
@@ -73,6 +73,7 @@ msgInFg:BLACK_L;
 msgInShadow:BLACK;
 msgInBgSelected:RED;
 msgInShadowSelected:RED_D;
+msgInDateFg:GRAY_D;
 msgInDateFgSelected:GRAY;
 msgInReplyBarColor:GRAY_D;
 msgInReplyBarSelColor:GRAY_D;
@@ -81,8 +82,9 @@ historyLinkInFgSelected:BLUE_L;
 msgFileInBg:GRAY;
 msgFileInBgOver:WHITE;
 msgFileInBgSelected:WHITE;
-msgInServiceFg:RED_LL;
-msgInServiceFgSelected:RED_LL;
+msgInServiceFg:GRAY_D;
+msgInServiceFgSelected:GRAY;
+msgInReplyBarColor:BLACK;
 
 // ====== Dialogs ======
 dialogsBgActive:RED;
@@ -117,3 +119,7 @@ msgFileThumbLinkOutFg:GRAY;
 filterInputBorderFg:BLACK_LL;
 msgServiceBg:BLACK_50;
 dialogsTextFgServiceActive:GRAY;
+
+// ====== Names ======
+historyPeer1NameFg:RED_L;
+historyPeer1NameFgSelected:GRAY_L;
