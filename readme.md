@@ -1,6 +1,6 @@
 # Boogie Telegram Desktop Theme
 
-![Screenshot](https://preview.ibb.co/mf8EHn/Screenshot.png)
+![Screenshot](https://image.ibb.co/e0Tbb7/boogie_theme_v1_1.png)
 
 ## Build theme
 
