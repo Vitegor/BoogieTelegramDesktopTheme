@@ -61,11 +61,11 @@ historyOutIconFg:GREEN;
 historyOutIconFgSelected:GREEN_L;
 historyLinkOutFg:BLUE_LL;
 historyLinkOutFgSelected:BLUE_L;
-msgOutReplyBarColor:BLACK_L;
-msgOutReplyBarSelColor:GRAY;
 msgFileOutBg:GRAY;
 msgFileOutBgOver:WHITE;
 msgFileOutBgSelected:WHITE;
+msgOutReplyBarColor:RED_D;
+msgOutReplyBarSelColor:RED_D;
 
 // ====== In messages ======
 msgInBg:BLACK_L;
@@ -75,8 +75,6 @@ msgInBgSelected:RED;
 msgInShadowSelected:RED_D;
 msgInDateFg:GRAY_D;
 msgInDateFgSelected:GRAY;
-msgInReplyBarColor:GRAY_D;
-msgInReplyBarSelColor:GRAY_D;
 historyLinkInFg:BLUE_LL;
 historyLinkInFgSelected:BLUE_L;
 msgFileInBg:GRAY;
@@ -84,7 +82,8 @@ msgFileInBgOver:WHITE;
 msgFileInBgSelected:WHITE;
 msgInServiceFg:GRAY_D;
 msgInServiceFgSelected:GRAY;
-msgInReplyBarColor:BLACK;
+msgInReplyBarSelColor:RED_D;
+msgInReplyBarColor:RED_D;
 
 // ====== Dialogs ======
 dialogsBgActive:RED;

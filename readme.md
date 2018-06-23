@@ -1,6 +1,10 @@
 # Boogie Telegram Desktop Theme
 
-![Screenshot](https://image.ibb.co/e0Tbb7/boogie_theme_v1_1.png)
+![Screenshot](https://image.ibb.co/dYoYh8/boogie_theme_v1_2.png)
+
+## Download
+
+You can download lastes theme version from [releases](https://github.com/Vitegor/BoogieTelegramDesktopTheme/releases) page.
 
 ## Build theme
 
