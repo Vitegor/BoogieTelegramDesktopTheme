@@ -90,6 +90,8 @@ dialogsBgActive:RED;
 dialogsBgOver:BLACK_LL;
 dialogsSentIconFg:GREEN;
 dialogsUnreadBgMuted:GRAY_DD;
+dialogsOnlineBadgeFg:GREEN;
+dialogsOnlineBadgeFgActive:GREEN;
 
 // ====== Buttons ======
 activeButtonBg:RED;
